@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
