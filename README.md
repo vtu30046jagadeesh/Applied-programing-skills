@@ -51,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
