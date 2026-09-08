@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
