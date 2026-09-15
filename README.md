@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0997-find-the-town-judge](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0997-find-the-town-judge) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Graph Theory
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
 | ------- |
@@ -100,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -112,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
