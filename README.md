@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0997-find-the-town-judge](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0997-find-the-town-judge) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -85,9 +87,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
