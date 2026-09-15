@@ -1,55 +1,31 @@
-
-
 class Solution {
-    public int longestSubarray(int[] nums, int limit) {
-
-        // Stores indexes of elements in decreasing order
-        Deque<Integer> maxDeque = new ArrayDeque<>();
-
-        // Stores indexes of elements in increasing order
-        Deque<Integer> minDeque = new ArrayDeque<>();
-
+    public int longestSubarray(int[] nums, int limit) { 
+        LinkedList<Integer> increase = new LinkedList<>();
+        LinkedList<Integer> decrease = new LinkedList<>();
+        int max = 0;
         int left = 0;
-        int maxLength = 0;
-
-        for (int right = 0; right < nums.length; right++) {
-
-            // Maintain decreasing order for maximum
-            while (!maxDeque.isEmpty() &&
-                   nums[maxDeque.peekLast()] < nums[right]) {
-                maxDeque.pollLast();
+        for (int i = 0; i < nums.length; i++) {
+            int n = nums[i];
+            while (increase.size() > 0 && n < increase.getLast()) {
+                increase.removeLast();
             }
-
-            maxDeque.offerLast(right);
-
-            // Maintain increasing order for minimum
-            while (!minDeque.isEmpty() &&
-                   nums[minDeque.peekLast()] > nums[right]) {
-                minDeque.pollLast();
+            increase.add(n);
+            while (decrease.size() > 0 && n > decrease.getLast()) {
+                decrease.removeLast();
             }
-
-            minDeque.offerLast(right);
-
-            // If max - min is greater than limit,
-            // move left pointer
-            while (nums[maxDeque.peekFirst()]
-                   - nums[minDeque.peekFirst()] > limit) {
-
-                if (maxDeque.peekFirst() == left) {
-                    maxDeque.pollFirst();
+            decrease.add(n);
+            while (decrease.getFirst() - increase.getFirst() > limit) {
+                if (nums[left] == decrease.getFirst()) {
+                    decrease.removeFirst();
                 }
-
-                if (minDeque.peekFirst() == left) {
-                    minDeque.pollFirst();
+                if (nums[left] == increase.getFirst()) {
+                    increase.removeFirst();
                 }
-
                 left++;
             }
-
-            // Current valid window length
-            maxLength = Math.max(maxLength, right - left + 1);
+            int size = i - left + 1;
+            max = Math.max(max, size);
         }
-
-        return maxLength;
+        return max;
     }
 }
