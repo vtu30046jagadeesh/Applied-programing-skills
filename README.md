@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
