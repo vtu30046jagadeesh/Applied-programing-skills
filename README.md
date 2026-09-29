@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu30046jagadeesh/Applied-programing-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
